@@ -1,9 +1,12 @@
 
+<<<<<<< HEAD
 Wonder
 HELLO GOOD BYE STEVIE
 
 
 !!!!!!
+^^
+>>>>>>> b479a7fba232560945f47626bb148881281155d5
 Wonder
 HELLO GOOD BYE STEVIE
 
