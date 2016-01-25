@@ -1,5 +1,7 @@
-function
+function conflict()
 {
-	feature1 = banana;
+	feature1 = bananaFISH;
 	feature2 = monkey;
+	feature4 = Wherever...
+	feature5 = MASON
 }
