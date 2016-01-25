@@ -1,5 +1,6 @@
 function conflict()
 {
-	feature1: Astronomy
-	feature4: Wherever...
+	feature1 = FISH
+	feature4 = Wherever...
+	feature5 = MASON
 }
