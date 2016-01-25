@@ -1,6 +1,5 @@
 function conflict()
 {
-	// features go here
-	Dinobark
-	Letting may run
+	feature1: Astronomy
+	feature4: Wherever...
 }
