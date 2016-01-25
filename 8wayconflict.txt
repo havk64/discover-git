@@ -1,4 +1,4 @@
-function
+function conflict()
 {
 	// features go here
 	Dinobark
