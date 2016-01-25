@@ -1,4 +1,4 @@
-function
+function conflict()
 {
 	feature1: Astronomy
 	feature4: Wherever...
