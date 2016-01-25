@@ -10,5 +10,6 @@ Josquin Gaillard
 
 
 other function {
-1	
+1
+2	
 }
