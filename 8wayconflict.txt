@@ -1,4 +1,5 @@
 function
 {
-	// features go here
+	feature1 = FISH
+	feature5 = MASON
 }
