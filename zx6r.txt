@@ -9,6 +9,7 @@ KAWASAKI NINJA ZX6R
 Josquin Gaillard
 
 
+<<<<<<< HEAD
 other function {
 1
 2	
