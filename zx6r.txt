@@ -9,8 +9,9 @@ KAWASAKI NINJA ZX6R
 Josquin Gaillard
 
 
-<<<<<<< HEAD
-other function {
-1
-2	
+other_function {
+      1:Feature_1
+      2:Feature_2
 }
+
+#revising this file...
